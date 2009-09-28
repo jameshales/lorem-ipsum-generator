@@ -3,9 +3,9 @@
 
 = Requirements =
 
- * [http://python.org/download/ Python]
- * [http://pygtk.org/downloads.html PyGTK]
- * [http://www.gtk.org/download.html GTK+]
+ * [http://python.org/download/ Python] (2.5 or above)
+ * [http://pygtk.org/downloads.html PyGTK] (2.12 or above)
+ * [http://www.gtk.org/download.html GTK+] (2.12 or above)
  * [http://pypi.python.org/pypi/setuptools setuptools]
 
 == Tips ==
