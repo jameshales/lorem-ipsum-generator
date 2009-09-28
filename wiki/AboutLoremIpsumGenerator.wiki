@@ -1,4 +1,5 @@
 #summary About the Lorem Ipsum Generator and "lorem ipsum" text
+#labels Featured
 
 = About "lorem ipsum" text =
 
