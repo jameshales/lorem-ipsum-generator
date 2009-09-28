@@ -3,9 +3,9 @@
 
 = Requirements =
 
- * [http://python.org/download/ Python]
- * [http://pygtk.org/downloads.html PyGTK]
- * [http://www.gtk.org/download.html GTK+]
+ * [http://python.org/download/ Python] (if using the RPM/DEB packages, Python *2.6* is required, as of version 0.3)
+ * [http://pygtk.org/downloads.html PyGTK] (2.12 or above)
+ * [http://www.gtk.org/download.html GTK+] (2.12 or above)
  * [http://pypi.python.org/pypi/setuptools setuptools]
 
 = Installation instructions =
@@ -17,6 +17,8 @@
  # A shortcut can be found in your Application menu in the "Other" category. Alternatively the program can be started with the command `lorem-ipsum-generator`.
 
 *Note:* If the shortcut fails to launch the application, this may indicate that one of the dependencies has not been installed correctly, or it is of the wrong version.
+
+*Also:* If you are running a version of Python other than Python 2.6, it is recommended that you install from source, as below.
 
 == Source package installation ==
 
