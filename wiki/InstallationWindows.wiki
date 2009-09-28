@@ -16,7 +16,7 @@
 = Installation instructions =
 
  # Ensure that you have Python, PyGTK, GTK+ and setuptools installed
- # Download and run the Windows installer
+ # [http://code.google.com/p/lorem-ipsum-generator/downloads/list Download] and run the Windows installer
  # A shortcut can be found in the Windows Start menu
 
 *Note:* If the shortcut fails to launch the application, this may indicate that one of the dependencies has not been installed correctly, or it is of the wrong version.
