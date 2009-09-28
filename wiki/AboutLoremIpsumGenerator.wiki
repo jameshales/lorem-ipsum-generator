@@ -10,6 +10,8 @@ The motivation is that meaningful, English text is distracting when testing desi
 
 Using generated, random "lorem ipsum" text reinforces the last mentioned benefit. As the generated text is random, it allows for an arbitrary amount of text to be produced without relying on repetition.
 
+_More information:_ [http://en.wikipedia.org/wiki/Lorem_ipsum Lorem ipsum (Wikipedia)]
+
 = How the program generates random "lorem ipsum" text =
 
 The Lorem Ipsum Generator produces its text based on the analysis of a sample file. 
@@ -25,3 +27,5 @@ The Lorem Ipsum Generator chooses latin words from a separate dictionary file, a
 The use of Markov chains in the Lorem Ipsum Generator was inspired by the [http://en.wikipedia.org/wiki/Mark_V_Shaney Mark V. Shaney] program. This program produces seemingly grammatically correct sentences (in real English, as opposed to jumbled latin), based on a sample file. There is an amusing story surrounding the Mark V. Shaney program.
 
 To generate sentences and paragraphs of "lorem ipsum" text, the Lorem Ipsum Generator uses normally distributed random variables to limit the lengths of sentences and paragraphs. The distribution of these variables depends on the mean and standard deviation of the sentence and paragraph lengths in the sample text (where sentence length is defined as the number of words in a sentence, and paragraph length as the number of sentences in a paragraph).
+
+_More information:_ [http://en.wikipedia.org/wiki/Markov_chain Markov chain (Wikipedia)], [http://en.wikipedia.org/wiki/Mark_V_Shaney Mark V. Shaney]
