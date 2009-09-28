@@ -28,4 +28,4 @@ The use of Markov chains in the Lorem Ipsum Generator was inspired by the [http:
 
 To generate sentences and paragraphs of "lorem ipsum" text, the Lorem Ipsum Generator uses normally distributed random variables to limit the lengths of sentences and paragraphs. The distribution of these variables depends on the mean and standard deviation of the sentence and paragraph lengths in the sample text (where sentence length is defined as the number of words in a sentence, and paragraph length as the number of sentences in a paragraph).
 
-_More information:_ [http://en.wikipedia.org/wiki/Markov_chain Markov chain (Wikipedia)], [http://en.wikipedia.org/wiki/Mark_V_Shaney Mark V. Shaney]
+_More information:_ [http://en.wikipedia.org/wiki/Markov_chain Markov chain (Wikipedia)], [http://en.wikipedia.org/wiki/Mark_V_Shaney Mark V. Shaney (Wikipedia)]
