@@ -1,0 +1,38 @@
+#summary Installation instructions for Linux
+#labels Phase-Deploy
+
+= Requirements =
+
+ * [http://python.org/download/ Python]
+ * [http://pygtk.org/downloads.html PyGTK]
+ * [http://www.gtk.org/download.html GTK+]
+ * [http://pypi.python.org/pypi/setuptools setuptools]
+
+= Installation instructions =
+
+== Deb or RPM packages ==
+
+ # Ensure that you have Python, PyGTK, GTK+ and setuptools installed
+ # Download an install either the .deb or .rpm file
+ # A shortcut can be found in your Application menu in the "Other" category. Alternatively the program can be started with the command `lorem-ipsum-generator`.
+
+*Note:* If the shortcut fails to launch the application, this may indicate that one of the dependencies has not been installed correctly, or it is of the wrong version.
+
+== Source package installation ==
+
+ # Ensure that you have Python, PyGTK, GTK+ and setuptools installed
+ # Download and extract the source package (the .tar.gz file).
+ # Open up a terminal and navigate to the extracted directory.
+ # Run the command `python setup.py install` with super-user priveledges (i.e. use su or sudo)
+ # A shortcut can be found in your Application menu in the "Other" category. Alternatively the program can be started with the command `lorem-ipsum-generator`.
+
+*Note:* If the shortcut fails to launch the application, this may indicate that one of the dependencies has not been installed correctly, or it is of the wrong version.
+
+== Source package, without installing ==
+
+ # Ensure that you have Python, PyGTK, GTK+ and setuptools installed
+ # Download and extract the source package (the .tar.gz file).
+ # Locate the `lorem-ipsum-generator` executable under the `src/` directory of the extracted directory.
+ # Ensure that the `lorem-ipsum-generator` file is executable (`chmod +x lorem-ipsum-generator`), and then run it
+
+*Note:* If the application fails to launch, this may indicate that one of the dependencies has not been installed correctly, or it is of the wrong version.
