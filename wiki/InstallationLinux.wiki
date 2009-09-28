@@ -3,7 +3,7 @@
 
 = Requirements =
 
- * [http://python.org/download/ Python] (if using the RPM/DEB packages, Python *2.6* is required, as of version 0.3)
+ * [http://python.org/download/ Python] (if using the RPM/DEB packages, Python *2.6*, and Python 2.5 should work if installing from source)
  * [http://pygtk.org/downloads.html PyGTK] (2.12 or above)
  * [http://www.gtk.org/download.html GTK+] (2.12 or above)
  * [http://pypi.python.org/pypi/setuptools setuptools]
