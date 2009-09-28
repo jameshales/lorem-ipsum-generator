@@ -10,7 +10,7 @@
 
 == Tips ==
 
- * [http://faq.pygtk.org/index.py?req=show&file=faq21.001.htp PyGTK: How do I get PyGTK running on MS Windows?] - covers
+ * [http://faq.pygtk.org/index.py?req=show&file=faq21.001.htp PyGTK: How do I get PyGTK running on MS Windows?]
  * [http://codemagnet.blogspot.com/2008/12/python-26-ezsetup-and-setuptools-pylint.html Python 2.6 : ez_setup and setuptools, pylint on Windows]
 
 = Installation instructions =
