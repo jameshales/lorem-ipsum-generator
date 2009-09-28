@@ -3,18 +3,20 @@
 
 = Requirements =
 
-* [http://python.org/download/ Python]
-* [http://pygtk.org/downloads.html PyGTK]
-* GTK+
-* setuptools
+ * [http://python.org/download/ Python]
+ * [http://pygtk.org/downloads.html PyGTK]
+ * [http://www.gtk.org/download.html GTK+]
+ * [http://pypi.python.org/pypi/setuptools setuptools]
 
 == Tips ==
 
-* [http://faq.pygtk.org/index.py?req=show&file=faq21.001.htp PyGTK: How do I get PyGTK running on MS Windows?] - covers
-* [http://codemagnet.blogspot.com/2008/12/python-26-ezsetup-and-setuptools-pylint.html Python 2.6 : ez_setup and setuptools, pylint on Windows]
+ * [http://faq.pygtk.org/index.py?req=show&file=faq21.001.htp PyGTK: How do I get PyGTK running on MS Windows?] - covers
+ * [http://codemagnet.blogspot.com/2008/12/python-26-ezsetup-and-setuptools-pylint.html Python 2.6 : ez_setup and setuptools, pylint on Windows]
 
 = Installation instructions =
 
-# Ensure that you have Python, PyGTK, GTK+ and setuptools installed
-# Download an run the Windows installer
-# A shortcut can be found in the Windows Start menu
+ # Ensure that you have Python, PyGTK, GTK+ and setuptools installed
+ # Download and run the Windows installer
+ # A shortcut can be found in the Windows Start menu
+
+*Note:* If the shortcut fails to launch the application, this may indicate that one of the dependencies has not been installed correctly, or it is of the wrong version.
